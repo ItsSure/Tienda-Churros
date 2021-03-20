@@ -1,0 +1,12 @@
+{
+    "name": "#Churromania",
+    "short_name": "#Churromania",
+    "description": "Aplicativo negocio de churros",
+    "background_color": "#2B2B2B",
+    "theme_color": "#e30052",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es"
+}
